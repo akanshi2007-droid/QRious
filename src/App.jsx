@@ -243,8 +243,7 @@ function App() {
       <main className="main-container">
         <section className="hero-section">
           <div>
-            <span className="gdg-badge">GDG on Campus SRM</span>
-
+            
             <p className="eyebrow">Stay QRious</p>
 
             <h1>
